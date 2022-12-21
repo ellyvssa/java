@@ -12,9 +12,10 @@ public class Pt3 {
         input.close();
 
         if ( gred >= 5 ){
-        }else if ( text == true){
+            if ( text == true){
                 System.out.println("Tahniah anda layak memasuki kelas 4 Sains Komputer");
-            }else{
+            }
+        }else{
                 System.out.println("Maaf, anda tidak layak memasuki kelas 4 Sains Komputer");
             }
         }

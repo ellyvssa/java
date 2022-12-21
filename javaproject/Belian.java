@@ -6,8 +6,8 @@ public class Belian {
     double harga,jumlah;
 
 //umpukan nilai
-    barangan="Ice cream";
-    kuantiti=9;
+    barangan="Biskut";
+    kuantiti=7;
     harga=3.89;
 
 //operasi
